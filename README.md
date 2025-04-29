@@ -14,6 +14,7 @@ This project provides a web-based interface to schedule when a light should turn
 │   ├── index.html
 │   ├── script.js
 │   └── style.css
+│   └── theme.js
 ├── subscriber/         # MQTT subscriber and serial controller (Python)
 │   └── subscriber.py
 ├── requirements.txt    # Python library requirements
