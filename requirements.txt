@@ -1,0 +1,6 @@
+# For backend websocket server
+websockets
+# For backend and subscriber MQTT communication
+paho-mqtt
+# For subscriber serial communication
+pyserial
